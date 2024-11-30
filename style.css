@@ -291,6 +291,7 @@ button:hover {
         margin-right: 0px;
         justify-self: center;
         align-self: center;
+        margin-bottom: 20px;
     }
 
     .css {
@@ -299,6 +300,7 @@ button:hover {
         margin-left: 0px;
         justify-self: center;
         align-self: center;
+        margin-bottom: 20px;
     }
 
     .js {
@@ -307,6 +309,7 @@ button:hover {
         margin-right: 0px;
         justify-self: center;
         align-self: center;
+        margin-bottom: 20px;
     }
 
     .bs {
@@ -315,6 +318,7 @@ button:hover {
         margin-left: 0px;
         justify-self: center;
         align-self: center;
+        margin-bottom: 20px;
     }
 
     .progress > p {
