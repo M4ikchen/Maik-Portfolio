@@ -167,7 +167,7 @@
 .web-agency {
     box-shadow: #7ea3ca 5px 5px;
 }
-
+/*
 .contact-container {
     display: grid;
     grid-template-columns: 100%;
@@ -214,6 +214,7 @@ button:hover {
     color: black;
     box-shadow: black 10px 10px;
 }
+*/
 
 .footer {
     background-color: #4372b3;
@@ -232,7 +233,7 @@ button:hover {
     margin: 0px;
 }
 
-@media (max-width: 1000px){
+@media screen and (max-width: 1000px){
 
     .overlay-text {
         font-size: 40px;
@@ -375,7 +376,7 @@ button:hover {
 
 }
 
-@media (max-width: 500px){ 
+@media screen and (max-width: 500px){ 
 
     .h21 {
         margin-top: 0px;
