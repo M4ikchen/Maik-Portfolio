@@ -226,8 +226,9 @@ button:hover {
     color: white;
     font-family:"cardo" , serif;
     font-size: 30px;
-    text-align: center;
+    text-align: right;
     padding-top: 5px;
+    padding-right: 10px;
     margin: 0px;
 }
 
